@@ -1,1 +1,2 @@
-# SQL-Proje-1
+# SQL-Proje
+Burada Patika SQL kursu projeleri bulunmaktadır
